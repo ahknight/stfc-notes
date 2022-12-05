@@ -5,11 +5,53 @@ permalink: /crews.html
 
 # Hostile Grinding
 
-## PMC - Pike/Moreau/Chen (vs Battleship/Explorer)
+## Early - Cadet Uhura/McCoy/Spock
 
-## PMT - Pike/Moreau/T'Lann (vs Interceptor)
+## Power Amplifier Duos
 
-## Picard/Beverly/(Worf/triangle) (51+?)
+### Shakedown Crew - Pike/Moreau
+
+### Next Gen Crew - Picard/Beverly
+
+## Mitigation Officers
+
+### Energy weapons - Chen (vs Battleship/Explorer)
+
+### Kinetic weapons - T'Lann (vs Interceptor)
+
+### Worf
+
+Worf is good in this combo when you are fighting along your natural triangle benefit.  Every ship has a single naturally-high mitigation stat and Worf will raise it by at least 40%.  When you don't know what you're going after, this is a good choice.  Note that Picard's ability (and synergy with that ability) will raise this at least to 90%.
+
+### Marcus
+
+Use Marcus when you are going after explorers, as he raises your ship's shield piercing by a fixed amount based on your crew's Defense stat.
+
+### Charvanek
+
+Use Charvanek against battleships as she raises your armor piercing stat by a fixed amount based on your crew's Health stat.
+
+### Kang
+
+Use Kang against interceptors as he raises your accuracy stat by a fixed amount based on your crew's Attack stat.
+
+## Damage Officers
+
+Just as there are officers whose job it is to mitigate damage, there are officers whose job is to magnify damage against certain hostiles.  There's a balance to be had here as using these officers with a Power Duo will leave you largely without additional mitigation, so be sure your research and below deck officers can help you out here before trying these.
+
+### L'nar
+
+### Yuki
+
+### ???
+
+## SNW Crew
+
+### Interceptor to Battleship - Pike/Uhura/(La'an, Una, Hemmer)
+
+### Battleship to Explorer - Pike/Ortegas/(La'an, Una, Hemmer)
+
+### Explorer to Interceptor - Pike/Spock/(La'an, Una, Hemmer)
 
 ## Swarms
 
@@ -18,6 +60,12 @@ permalink: /crews.html
 ### SNW - Pike/Spock/(Una/La'an)
 
 ## Borg Probes (Vi'dar)
+
+### Starting Out - 7/8/9
+
+### Moving Up - PMC
+
+### High Levels - SNW Pike/Una/Uhura
 
 ## Actian (Mantis)
 
