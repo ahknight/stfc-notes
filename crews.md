@@ -14,11 +14,11 @@ permalink: /crews.html
 
 ## Hostile
 
-### PMC - Pike/Moreau/Chen (Battleship/Explorer)
+### PMC - Pike/Moreau/Chen (vs Battleship/Explorer)
 
-### PMT - Pike/Moreau/Chen (Interceptor)
+### PMT - Pike/Moreau/T'Lann (vs Interceptor)
 
-### Picard/Beverly/(Worf/triangle) (51+)
+### Picard/Beverly/(Worf/triangle) (51+?)
 
 ## Capital System Traders
 
@@ -40,3 +40,12 @@ Five will provide significant mitigation, especially when paired with another Bo
 
 If you don't have a high enough cumulative stat for the triangle officer, you can swap out Seven for Eight or Nine as needed and include Hemmer below decks to raise Health that way.
 
+## Base Hits
+
+### Saladin - Rom/Honorguard Worf/Harrison
+
+For the first round, Rom delays all attacks from the station while Harrison drops their shields significantly.  HGW increases the critical hit chance for the first 8 rounds meaning that Saladin's large weapon (fires third in the first round) has a good chance of being a critical hit that will strike the first ship or weapon in defense order.
+
+While it won't always take a base out, it will almost always allow you to make progress for every hit.
+
+Counters: Kras with full synergy on a ship will negate Rom's ability entirely.
