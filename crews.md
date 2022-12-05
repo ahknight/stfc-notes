@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Common Crews
 permalink: /crews.html
 ---
