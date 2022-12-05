@@ -125,6 +125,14 @@ Counters: Kras with full synergy on a ship will negate Rom's ability entirely.
 
 ## Armadas - Geordi
 
+### Solo
+
+#### Defiant - Five/Six/Khan
+
+#### D4 - Geordi/Beverly/Picard
+
+#### Franklin-A - Jaylah/Miles/Sisko
+
 ## Swarms - Jaylah
 
 ### Jaylah/Five/(T'Laan/SNW Spock)
