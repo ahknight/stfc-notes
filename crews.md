@@ -93,6 +93,16 @@ If you can't take on these ships with just PMC, try using Cerritos to boost the 
 
 ## Regular Armadas (FKR)
 
+### DS9
+
+### TNG
+
+### Five/Six/Khan
+
+While also a Greed crew, the other traits of this crew are quite effective in armadas.  The synergy between Five and Six provides good mitigation while the ever-increasing piercing and critical hit chance of Six and Khan will steadily increase both your damage and the amount that hits the armada hull.
+
+While Six wants you to stack Attack for this crew, you should consider stacking Health to boost Five instead for more challenging armadas, relying on Khan's critical hit chance increase to deal damage.
+
 ## Eclipse Armadas (Muddmadas)
 
 ## Swarm Armadas (Swarmadas)
