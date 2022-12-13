@@ -111,6 +111,18 @@ While Six wants you to stack Attack for this crew, you should consider stacking 
 
 ## Solo Armadas (Dominion)
 
+### Defiant - Sisko/Miles/Six (stack Attack)
+
+The Defiant was designed to excel with crew that give it multiple shots, so Miles is a must.  Sisko brings critical hits and mitigation enhanced with synergy.  Six brings penetration.  Boosted with a Cerritos and/or cloak, the Defiant will bring the damage.
+
+### D4 - Beverly/Khan/Gorkon (stack Defense/Health)
+
+With a ship ability that depends on hull breach, Gorkon brings out the best in the D4.  Since Gorkon depends on critical hits to activate, Khan joins the crew to bring a continual increase in critical hit chance.  Meanwhile, Beverly brings mitigation and shield regeneration to keep the ship intact.  With an ever-increasing critical hit chance boosted by a hull breach and a ship ability that raises its damage every round there's a hull breach, the D4 excels at long battles like armadas.
+
+## Bullet Sponges - Five/Spock/Kirk (stack Health)
+
+For non-epic ships that join the battle, they're basically bullet sponges.  Their job is be there round after round taking the hits instead of the ships doing damage.  Bring at most one.  With this crew, Five brings the mitigation with Health stacked below and Spork brings the shield regeneration.
+
 # Mission Hostiles (Yellow)
 
 ### Five/Seven/(triangle)
