@@ -119,7 +119,7 @@ The Defiant was designed to excel with crew that give it multiple shots, so Mile
 
 With a ship ability that depends on hull breach, Gorkon brings out the best in the D4.  Since Gorkon depends on critical hits to activate, Khan joins the crew to bring a continual increase in critical hit chance.  Meanwhile, Beverly brings mitigation and shield regeneration to keep the ship intact.  With an ever-increasing critical hit chance boosted by a hull breach and a ship ability that raises its damage every round there's a hull breach, the D4 excels at long battles like armadas.
 
-## Bullet Sponges - Five/Spock/Kirk (stack Health)
+### Bullet Sponges - Five/Spock/Kirk (stack Health)
 
 For non-epic ships that join the battle, they're basically bullet sponges.  Their job is be there round after round taking the hits instead of the ships doing damage.  Bring at most one.  With this crew, Five brings the mitigation with Health stacked below and Spork brings the shield regeneration.
 
@@ -130,6 +130,10 @@ For non-epic ships that join the battle, they're basically bullet sponges.  Thei
 Five will provide significant mitigation, especially when paired with another Borg officer.  That mitigation is based on the Health stat, so pairing with Seven will boost the Health stats of all officers at least 75%.  The remaining slot is taken by a triangle officer.
 
 If you don't have a high enough cumulative stat for the triangle officer, you can swap out Seven for Eight or Nine as needed and include Hemmer below decks to raise Health that way.
+
+### Five/Khan/Lorca
+
+Similar to the above, except for ships/players with enough mitigation this swaps for rapidly-increasing damage with the combination of a breach officer and a steady crit chance increase.
 
 # Base Hits
 
