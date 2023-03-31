@@ -123,6 +123,10 @@ With a ship ability that depends on hull breach, Gorkon brings out the best in t
 
 For non-epic ships that join the battle, they're basically bullet sponges.  Their job is be there round after round taking the hits instead of the ships doing damage.  Bring at most one.  With this crew, Five brings the mitigation with Health stacked below and Spork brings the shield regeneration.
 
+### Additional DS9 Crewing
+
+Dax Bev Khan in D4, Sisko Miles Six in Defiant, Five Lorca Kirk in Ent
+
 # Mission Hostiles (Yellow)
 
 ### Five/Seven/(triangle)
@@ -163,3 +167,28 @@ Counters: Kras with full synergy on a ship will negate Rom's ability entirely.
 
 ### Jaylah/Five/(T'Laan/SNW Spock)
 
+### Jaylah/Kang/SNW Spock
+
+# Base Defense
+
+Due to the need to use the Jellyfish, all ships should be small explorers, like Realta and Turas. Keep them low-level so they're quick to repair.
+
+## Pon/Weyoun/Kirk
+
+Delays the opponent's first three rounds, sometimes.
+
+## Kras/Lorca/Georgeau (not the smallest ship)
+
+Negates Rom.  Hull breach.  Burning.
+
+## Pike/Moreau/Harrison (smallest)
+
+Brings shields down for the first round.
+
+## Picard/Beverly/SNW Orgegas
+
+Delays opponent several rounds.
+
+## Yuki (full synergy)
+
+Strips shields in an ongoing fashion.
