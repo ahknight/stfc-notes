@@ -73,7 +73,11 @@ Just as there are officers whose job it is to mitigate damage, there are officer
 
 This is generally the best crew when you're looking for mitigation against the high-powered hostiles in these systems.  SNW Pike will increase the ship's shield deflection while SNW Ortegas will provide straight damage mitigation for the battleship-to-explorer encounters.  SNW Una will increase your impulse speed so you can race to the Actian Apex hostile as fast or faster than other players.
 
-The Actian Apex hostile is an interceptor, and as such will not be mitigated by SNW Orgegas.  Also, as interceptors are kinetic damage and explorers are energy damage, should you decide to bring PMC you will be similarly unequipped for mitigation of this hostile.  The expected pattern is for players to gather all three boosts from the explorer hostiles and then go after the Apex while the buffs are active (5m each).  However, at higher tiers the Mantis is perfectly capable of hitting the Apex hostile without the buffs.  The level 38 system is a good testing ground for this case as there exist only one explorer and one interceptor at a time and they only reset when both are destroyed.  You can use this either to farm or to test your ability to take on a high-level Apex hostile.
+The Actian Apex hostile is an interceptor, and as such will not be mitigated by SNW Orgegas.  Also, as interceptors are kinetic damage and explorers are energy damage, should you decide to bring PMC you will be similarly unequipped for mitigation of this hostile.  The expected pattern is for players to gather all three boosts from the explorer hostiles and then go after the Apex while the buffs are active (5m each).  However, at higher tiers the Mantis is perfectly capable of hitting the Apex hostile without the buffs.
+
+### Five/Gorkon/Kang (w/Hugh)
+
+Once your Mantis is strong enough, this crew makes Apex sniping a breeze. Five provides general mitigation boosts as well as a big boost to hostile loot, which is exactly what we need here. Hugh below will ensure a good number of critical hits happen to trigger Gorkon and create the hull breach. Meanwhile, Kang is punching through the Apex’s strongest mitigation and ensuring that the breeched crits cause maximum damage.
 
 ## Capital System Traders
 
