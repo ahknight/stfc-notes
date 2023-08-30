@@ -79,6 +79,11 @@ The Actian Apex hostile is an interceptor, and as such will not be mitigated by 
 
 Once your Mantis is strong enough, this crew makes Apex sniping a breeze. Five provides general mitigation boosts as well as a big boost to hostile loot, which is exactly what we need here. Hugh below will ensure a good number of critical hits happen to trigger Gorkon and create the hull breach. Meanwhile, Kang is punching through the Apex’s strongest mitigation and ensuring that the breeched crits cause maximum damage.
 
+### Other Ships - Five/Nero/Tal
+
+Below deck use: Ghalinar, EMH, Hugh, La'An, Odo, Mariner, Torres
+
+
 ## Capital System Traders
 
 These are good ships to grind in the late 30s and early 40s due to the 4-star BPs they drop.  You can get BP for the uncommon survey (shipyard 41) and uncommon warship (shipyard 42) as drops from the traders in this system (mainly the heavy traders).
