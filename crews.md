@@ -201,3 +201,55 @@ Delays opponent several rounds.
 ## Yuki (full synergy)
 
 Strips shields in an ongoing fashion.
+
+# Saved Crews
+
+I'm keeping a copy of my saved crews here since the game loves to delete them when a new slot is added.
+
+## Hostiles
+
+Above: SNW Pike, SNW Spock, SNW Hemmer
+
+Below: Hugh, Mariner, Odo, Kim
+
+## Generic PVP
+
+Above: Lorca, Tilly, Honorguard Worf
+
+## Actian
+
+Above: Five, Tal, Nero
+
+Below: Hugh, Odo, Mariner, SNW La'An, Ghalinar, EMH, Torres
+
+## Probes
+
+Above: SNW Pike, SNW Uhura, Five
+
+Below: Hugh, Odo, Mariner, SNW La'An, Ghalinar, EMH, Torres
+
+## Swarm
+
+Above: Jaylah, Kang, SNW Spock
+
+Below: Hugh, Odo, Mariner, EMH
+
+## Voyager Summons
+
+Above: Janeway, Five, Neelix
+
+Below: Hugh, Mariner, Odo, Kim, EMH, Paris
+
+## Max Cargo Mining
+
+Above: Two, Four, Stonn
+
+Below: SNW La'An, Barclay, Dixon
+
+## Loot Grinding
+
+Above: SNW Pike, SNW Spock, Five
+
+Below: Hugh, Mariner, Odo, PIC Beverly, EMH, Kim, Torres
+
+
