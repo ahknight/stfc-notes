@@ -4,6 +4,7 @@ title: "STFC Notes"
 
 # Notes
 [Crews](/crews.html)
+[Special Crews](/special_crews.html)
 
 # Links
 
